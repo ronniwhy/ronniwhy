@@ -15,8 +15,7 @@ Backend:
 
 Fronted:
 - 📖 HTML;
-- 🏳️ CSS;
-- 🔭 JavaScript.
+- 🏳️ CSS.
 
 Frameworks:
 - Django;
