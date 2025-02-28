@@ -11,7 +11,10 @@
 Backend:
 - 🐍 Python;
 - ☕ Java;
-- 🔭 JavaScript.
+- 🔭 JavaScript;
+- Docker;
+- Kubernetes;
+- Terraform.
 
 Fronted:
 - 📖 HTML;
